@@ -1,7 +1,31 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 自建服务
   icon: far fa-star
+  links: 
+    - title: Filebrowser
+      logo: fb.webp
+      url: https://fb.cyzero.top:10/
+      description: 快速管理私有云盘。
+    - title: MT相册
+      logo: mt.webp
+      url: https://mt.cyzero.top:10/
+      description: MT_Photos私有云相册。
+    - title: Jellyfin
+      logo: jf.webp
+      url: https://jf.cyzero.top:10/
+      description: 私有家庭影院。
+    - title: 笔记
+      logo: note.webp
+      url: https://note.cyzero.top:10/
+      description: 个人快速笔记。
+    - title: 音乐
+      logo: 音乐.webp
+      url: https://m.cyzero.top:10/
+      description: 私有音乐播放服务。
+
+- taxonomy: 常用推荐
+  icon: far fa-star fa-lg
   links: 
     - title: 语雀
       logo: 语雀.webp
